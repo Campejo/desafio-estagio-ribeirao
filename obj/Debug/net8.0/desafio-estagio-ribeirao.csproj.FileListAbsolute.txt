@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\bin\Debug\net8.0\desafio-estagio-ribeirao.exe
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\bin\Debug\net8.0\desafio-estagio-ribeirao.deps.json
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\bin\Debug\net8.0\desafio-estagio-ribeirao.runtimeconfig.json
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\bin\Debug\net8.0\desafio-estagio-ribeirao.dll
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\bin\Debug\net8.0\desafio-estagio-ribeirao.pdb
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.sourcelink.json
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.dll
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\refint\desafio-estagio-ribeirao.dll
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.pdb
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\desafio-estagio-ribeirao.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Projetos\desafio-estagio-ribeirao\obj\Debug\net8.0\ref\desafio-estagio-ribeirao.dll
