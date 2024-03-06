@@ -1,6 +1,8 @@
 # Testes - Estágio Ribeirão Preto
+Este README oferece uma visualização direta e resumida de como o código funciona, peço que rode o programa para que tenha a experiência total dele.
+Ele foi feito com POO e com um menu interativo que mostra exatamente o resultado, do código ou resposta da pergunta, esperado.
 
-## 1° Desafio:
+### 1° Desafio:
     int indice = 13, soma = 0, k = 0;
 
     while (k < indice)
@@ -11,7 +13,7 @@
 
     Console.WriteLine(soma);
 
-## 2° Desafio:
+### 2° Desafio:
 
     Console.WriteLine("Digite um número inteiro maior que 0");
     int x = Convert.ToInt32(Console.ReadLine());
@@ -47,7 +49,7 @@
 
 
 
-## 3° Desafio:
+### 3° Desafio:
 
      a) 9
      b) 128
@@ -56,7 +58,7 @@
      e) 13
      f) 20
 
-## 4° Desafio:
+### 4° Desafio:
 
 Eu acenderia uma das lâmpadas por um certo tempo, depois desse tempo eu apagaria essa lâmpada e acenderia uma segunda, após isso eu iria até uma das salas das lâmpadas e observaria o seguinte:
 
@@ -64,7 +66,7 @@ Eu acenderia uma das lâmpadas por um certo tempo, depois desse tempo eu apagari
 
 2. Caso a lâmpada estivesse apagada eu tocaria nela para sentir se estava quente ou fria, caso estivesse fria eu saberia que foi o interruptor que não liguei em momento algum, e caso estivesse quente eu saberia que era o primeiro interruptor que liguei.
 
-## 5° Desafio:
+### 5° Desafio:
     Console.WriteLine("Escreva uma palavra");
     string receberString = Console.ReadLine();
 
